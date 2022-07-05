@@ -11,7 +11,7 @@ export const ankiFirstGrade = [
   { id: 10, kanji: "学", meaning: "Learn" },
   { id: 11, kanji: "気", meaning: "Energy" },
   { id: 12, kanji: "九", meaning: "Nine" },
-  { id: 13, kanji: "休", meaning: "Body" },
+  { id: 13, kanji: "休", meaning: "Rest" },
   { id: 14, kanji: "金", meaning: "Money" },
   { id: 15, kanji: "空", meaning: "Sky, Empty" },
   { id: 16, kanji: "月", meaning: "Moon" },
