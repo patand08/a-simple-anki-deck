@@ -4,7 +4,7 @@ export const useCardStore = create((set) => ({
   currentDeck: [],
   currentCard: 0,
   isFront: true,
-  clear: true,
+  clear: true, //needed to shuffle deck if current card is 0
 
   clearDeck: () =>
     set((state) => ({
@@ -14,7 +14,6 @@ export const useCardStore = create((set) => ({
       clear: !state.clear,
     })),
 
-  //Setdeck here
   setDeck: (newDeck) =>
     set({
       currentDeck: newDeck,
