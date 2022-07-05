@@ -60,7 +60,10 @@ export default () => {
               disableRipple
               sx={{ color: "#eceff1", display: { xs: "none", sm: "block" } }}
               onClick={() =>
-                window.open("https://github.com/Patrux08", "_blank")
+                window.open(
+                  "https://github.com/Patrux08/a-simple-anki-deck",
+                  "_blank"
+                )
               }
             >
               <GitHubIcon />
