@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/a-simple-anki-deck/static/js/main.183ec6fb.js",
+    "main.js": "/a-simple-anki-deck/static/js/main.4c7c6495.js",
     "index.html": "/a-simple-anki-deck/index.html",
-    "main.183ec6fb.js.map": "/a-simple-anki-deck/static/js/main.183ec6fb.js.map"
+    "main.4c7c6495.js.map": "/a-simple-anki-deck/static/js/main.4c7c6495.js.map"
   },
   "entrypoints": [
-    "static/js/main.183ec6fb.js"
+    "static/js/main.4c7c6495.js"
   ]
 }
