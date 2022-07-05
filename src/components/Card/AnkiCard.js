@@ -24,8 +24,8 @@ export default (props) => {
           sx={{
             position: "absolute",
             cursor: "pointer",
-            minWidth: { xs: "12rem", sm: "14rem", md: "17rem" },
-            minHeight: { xs: "19rem", sm: "21rem", md: "24rem" },
+            minWidth: { xs: "11rem", sm: "14rem", md: "17rem" },
+            minHeight: { xs: "18rem", sm: "21rem", md: "24rem" },
             display: "flex",
             border: 10,
             borderRadius: 5,
